@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-crud-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^2.7.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.2.15",
+    "mongoose-relationship": "^0.1.5",
+    "randomcolor": "^0.5.4",
+    "twilio": "^3.39.5"
+  }
+}
