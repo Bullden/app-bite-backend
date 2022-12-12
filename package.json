@@ -16,7 +16,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^2.7.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.2.15",
     "mongoose-relationship": "^0.1.5",
     "randomcolor": "^0.5.4",
